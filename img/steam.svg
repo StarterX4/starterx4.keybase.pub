@@ -1,0 +1,13 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" fill="#ebebeb" role="img" aria-label="Steam">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_2" d="m183,280l41,28l27,41l87,-62l-94,-96"/>
+  <circle id="svg_3" r="49" cy="190" cx="340"/>
+  <g id="svg_4" stroke="#ebebeb" fill="none">
+   <circle id="svg_5" stroke-width="19" r="63" cy="352" cx="179"/>
+   <path id="svg_6" stroke-linecap="round" stroke-width="80" d="m-18,271l195,81"/>
+   <circle id="svg_7" stroke-width="32" r="81" cy="190" cx="340"/>
+  </g>
+ </g>
+</svg>
