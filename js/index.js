@@ -7,7 +7,7 @@ function loadSkills(skills){
 		while(i<skills.length){
 		skillsInnerHTML+='<div class="row">';
 		for(j=i;j<skills.length&&j<i+5;j++){
-			skillsInnerHTML+='<div class="col m2"> <a href="'+skills[j].link+'" target="_blank" > <img src="img/'+skills[j].icon+'">'+skills[j].name+'</a></div>';
+			skillsInnerHTML+='<div class="col s2"><img src="img/'+skills[j].icon+'">'+skills[j].name+'</div>';
 		}
 		skillsInnerHTML+='</div>';
 			i=j;
