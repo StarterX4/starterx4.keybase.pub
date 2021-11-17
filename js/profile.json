@@ -67,5 +67,5 @@
     "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
     "Tabs are better than spaces."
   ],
-  "helloText": "<p>Heyo Visitor, Thank you for visiting my webspace.</p>\n\n<p>Arch/Manjaro Linux repositories:</p>\n[stx4-any]\nSigLevel = Never\nServer = https://starterx4.keybase.pub/repos/arch/any/stx4\n[stx4-x86_64]\nSigLevel = Never\nServer = https://starterx4.keybase.pub/repos/arch/x86_64/stx4\n"
+  "helloText": "<p>Heyo Visitor, Thank you for visiting my webspace.</p>\n"
 }
